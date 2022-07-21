@@ -10,5 +10,5 @@ My name is Tiago de Castro and I am a customer support agent who started last ye
 
 - 🔭 I’m currently working on: Building portfolio and getting my first coding job
 - 🌱 I’m currently learning: React/Redux/Typescript
-- 📫 How to reach me: tiagodecastro.sf[at]gmail[dot]com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiago-de-castro/)
 
